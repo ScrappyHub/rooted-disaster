@@ -1,20 +1,39 @@
-## Governance Boundaries
+# 🌪️ ROOTED Disaster — Relief, Recovery & Community Rebuilding
 
-This repository:
+A long-term disaster recovery vertical in the ROOTED OS.
 
-- Does NOT define roles, tiers, or access laws
-- Does NOT change database schema or RLS
-- Does NOT define Kids Mode or sanctuary rules
+## 🎯 Purpose
+Covers:
+- Disaster relief resource discovery  
+- Long-term recovery programs  
+- Community rebuilding support  
+- FEMA-style civic guidance  
+- Volunteer coordination overlays  
 
-All governance and access control lives in:
+This vertical focuses on **recovery**, not live emergency dispatch.
 
-→ https://github.com/.../rooted-platform
+## 🧭 Vertical Identity
+- 🤝 Community rebuilding  
+- 🛑 Non-commercial  
+- 🧒 Kids Mode–restricted  
+- 📚 Verified factual data only  
+- 🔐 Strong governance  
 
-Any change that attempts to bypass ROOTED governance is invalid by design.
+No speculation, political messaging, or editorialization allowed.
 
+## 📁 Repository Scope
+Includes:
+- Disaster program UI  
+- Resource maps  
+- Public rebuilding assistance listings  
+- Verified nonprofit partners  
 
+Does NOT include:
+- B2B procurement  
+- Data manipulation paths  
+- Schema/RLS edits  
 
----
-
-# rooted-disaster
-ROOTED Disaster Recovery vertical — shelter logistics and relief coordination. Long-range planning docs, not a live app.
+## 🔐 Backend Source of Truth
+As always:
+- rooted-core  
+- rooted-platform/governance  
